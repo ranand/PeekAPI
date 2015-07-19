@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_time: MyString
+  duration: MyString
+  availability: MyString
+  customer_count: MyString
+  booked: MyString
+
+two:
+  start_time: MyString
+  duration: MyString
+  availability: MyString
+  customer_count: MyString
+  booked: MyString
